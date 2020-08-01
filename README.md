@@ -43,3 +43,19 @@ Grids with random colors.
 Custom property wrapper `@Transaction` to `commit` or `rollback` changes to a value.
 
 Credit: Ian Keen
+
+## Day 10: ProgressView
+
+Default circular style and linear style.
+
+## Day 11: Forms & Pickers
+
+- Pickers
+- DatePickers
+- Nested in a `Form`
+
+## Day 12: Custom Circular ProgressView
+
+Custom Circular ProgressView.
+
+Credit: [Josh Kannenberg](https://www.youtube.com/watch?v=095s3BF-yHA) .
