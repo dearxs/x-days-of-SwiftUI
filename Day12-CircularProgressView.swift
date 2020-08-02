@@ -119,3 +119,18 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+// extension to Color
+
+extension Color {
+    
+    static func RGB(r: Double, g: Double, b: Double) -> Color {
+        return Color(red: r/255, green: g/255, blue: b/255)
+    }
+    
+    static let backgroundColor = Color.RGB(r: 21, g: 22, b: 33)
+    static let outlineColor = Color.RGB(r: 54, g: 255, b: 203)
+    static let trackColor = Color.RGB(r: 45, g: 56, b: 95)
+    static let pulsatingColor = Color.RGB(r: 73, g: 113, b: 148)
+}
+

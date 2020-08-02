@@ -59,3 +59,23 @@ Default circular style and linear style.
 Custom Circular ProgressView.
 
 Credit: [Josh Kannenberg](https://www.youtube.com/watch?v=095s3BF-yHA) .
+
+## Day 13: Slider+CircularProgressView
+
+Credit: [(2) SwiftUI - Circular Progress View - YouTube](https://www.youtube.com/watch?v=K5OLnQJueNM&feature=youtu.be)
+
+Swift Packages: 
+
+- [dawigr/BarChart: SwiftUI Bar Chart](https://github.com/dawigr/BarChart)
+- [honkmaster/TTProgressHUD: TTProgressHUD is a light weight HUD written in SwiftUI meant to display the progress of an ongoing task on iOS.](https://github.com/honkmaster/TTProgressHUD)
+
+- [maustinstar/shiny: Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View.](https://github.com/maustinstar/shiny)
+- [maustinstar/swiftui-drawer: A SwiftUI bottom-up controller, like in the Maps app. Drag to expand or minimize.](https://github.com/maustinstar/swiftui-drawer)
+- [Cay-Zhang/SwiftSpeech: A speech recognition framework designed for SwiftUI.](https://github.com/Cay-Zhang/SwiftSpeech)
+- [exyte/Grid: The most powerful Grid container missed in SwiftUI](https://github.com/exyte/Grid)
+
+Readings: 
+
+- [Understanding Function Builders in Swift • Andy Ibanez](https://www.andyibanez.com/posts/understanding-function-builders/)
+- [Using CSS-like Grid Layout in SwiftUI 2020](https://exyte.com/blog/implementing-grid-layout-in-swiftui?utm_source=reddit&utm_medium=referral&utm_campaign=website_blog)
+
