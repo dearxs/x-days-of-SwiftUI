@@ -91,6 +91,16 @@ An AppleTV Dashboard mockup with:
 
 Credit to[ Jordan Singer](https://gist.github.com/jordansinger/87497bb3ed7e663ddacdbc9c9829be69).
 
-## Day 15: UISearchBar
+## Day 15: Alert + Stepper
+
+Credit: [Paul Hudson](https://www.hackingwithswift.com/books/ios-swiftui/betterrest-introduction)
+
+- Stepper`
+- `Alert`
+- `DatePicker()`
+- `NavigationView()`
+- `Button()`
+
+## Day 16: UISearchBar
 
 Todo: [Building a Search Bar in SwiftUI | Mastering SwiftUI](https://www.appcoda.com/swiftui-search-bar/)
