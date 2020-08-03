@@ -79,3 +79,18 @@ Readings:
 - [Understanding Function Builders in Swift • Andy Ibanez](https://www.andyibanez.com/posts/understanding-function-builders/)
 - [Using CSS-like Grid Layout in SwiftUI 2020](https://exyte.com/blog/implementing-grid-layout-in-swiftui?utm_source=reddit&utm_medium=referral&utm_campaign=website_blog)
 
+## Day 14: UIBlurView
+
+Create `UIBlurView` with `UIViewRepresentable`. (Just a normal view wrapped in a UIView, IMO.)
+
+An AppleTV Dashboard mockup with: 
+
+- TextView
+- IconView
+- ModuleView
+
+Credit to[ Jordan Singer](https://gist.github.com/jordansinger/87497bb3ed7e663ddacdbc9c9829be69).
+
+## Day 15: UISearchBar
+
+Todo: [Building a Search Bar in SwiftUI | Mastering SwiftUI](https://www.appcoda.com/swiftui-search-bar/)
