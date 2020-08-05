@@ -101,6 +101,20 @@ Credit: [Paul Hudson](https://www.hackingwithswift.com/books/ios-swiftui/betterr
 - `NavigationView()`
 - `Button()`
 
-## Day 16: UISearchBar
+## Day 16: `PKCanvasView`
+
+Draw and save drawings. (Lot of bugs, dunno why.)
+
+## Day 17: Custom "gif" view
+
+Swift Package: 
+
+- add support pkg; (https://github.com/airbnb/lottie-android)
+- Create `LottieView` with `UIViewRepresentable`;
+- use `LottieView` like any other SwiftUI View.
+
+Can find more lottie files: https://lottiefiles.com/ .
+
+## Someday: UISearchBar
 
 Todo: [Building a Search Bar in SwiftUI | Mastering SwiftUI](https://www.appcoda.com/swiftui-search-bar/)
