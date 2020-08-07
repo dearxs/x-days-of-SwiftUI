@@ -105,6 +105,13 @@ Credit: [Paul Hudson](https://www.hackingwithswift.com/books/ios-swiftui/betterr
 
 Draw and save drawings. (Lot of bugs, dunno why.)
 
+PencilKit Canvas View, i think it is. 
+
+- view created with `UIViewRepresentable`
+- different inking tools;
+- ColorPickerView()
+- Eraser etc..
+
 ## Day 17: Custom "gif" view
 
 Swift Package: 
@@ -114,6 +121,11 @@ Swift Package:
 - use `LottieView` like any other SwiftUI View.
 
 Can find more lottie files: https://lottiefiles.com/ .
+
+## Day 18: `.matchedGeometryEffect`
+
+- A button to show and hide a view;
+- **Matching** Animation to animate the process (with `matchedGeometryEffect`).
 
 ## Someday: UISearchBar
 
